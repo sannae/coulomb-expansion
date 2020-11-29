@@ -1,0 +1,47 @@
+CASO 1
+v = 0.1
+me = 1
+mi = 50
+100 intervalli
+
+CASO 2
+v = 0.5
+me = 1
+mi = 50
+100 intervalli
+
+CASO 3
+v = 1.0
+me = 1
+mi = 50
+100 intervalli
+
+CASO 4 (comparare con 2)
+v = 0.5
+me = 1
+mi = 50*random
+100 intervalli
+
+CASO 5
+v = 0.5
+me = 1
+mi = 10
+100 intervalli
+
+CASO 6
+v = 0.5
+me = 1
+mi = 100
+100 intervalli
+
+TRANSITORIO 1
+v = 0.1
+100 intervalli
+
+TRANSITORIO 2
+v = 0.5
+100 intervalli
+
+TRANSITORIO 3
+v = 1.0
+100 intervalli
